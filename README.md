@@ -20,3 +20,4 @@ Softwares I use for
 - Designing: Adobe Photoshop
 
 [![Ayushi's github stats](https://github-readme-stats.vercel.app/api?username=aj-spec&count_private=true&show_icons=true)](https://github.com/aj-spec/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aj-spec&layout=compact)](https://github.com/aj-spec/github-readme-stats)
