@@ -19,4 +19,5 @@ Softwares I use for
 - App Development: Flutter
 - Designing: Adobe Photoshop
 
-[![Ayushi's github stats](https://github-readme-stats.vercel.app/api?username=aj-spec)](https://github.com/aj-spec/github-readme-stats)
+[![Ayushi's github stats](https://github-readme-stats.vercel.app/api?username=aj-spec&count_private=true)](https://github.com/aj-spec/github-readme-stats)
+![Ayushi's github stats](https://github-readme-stats.vercel.app/api?username=aj-spec&show_icons=true)
