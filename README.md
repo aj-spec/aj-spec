@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hardworking college student bringing forth a motivated attitude and a variety of skills. Good time management skills combined with a knowledge of C/C++ and app development and design. Strong organizational abilities with proven success in managing academic projects and volunteering events.
+I am a college student bringing forth a motivated attitude and a variety of skills. Good time management skills combined with a knowledge of C/C++ and app development and design. Strong organizational abilities with proven success in managing academic projects and volunteering events.
+Softwares I use for
+- App Development: Flutter
+- Designing: Adobe Photoshop
