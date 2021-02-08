@@ -16,11 +16,9 @@ Softwares I use for
 - 👩‍💻 Designing: Adobe Photoshop
 
 ![](https://komarev.com/ghpvc/?username=aj-spec)
-<center>
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ayushi-jain-17b547190/)
 &nbsp;
 [![Twitter](https://i.stack.imgur.com/zlR4C.jpg) Twitter](https://twitter.com/AyushiJ1601)
-</center>
 
 [![Ayushi's github stats](https://github-readme-stats.vercel.app/api?username=aj-spec&count_private=true&show_icons=true)](https://github.com/aj-spec/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aj-spec&layout=compact)](https://github.com/aj-spec/github-readme-stats)
