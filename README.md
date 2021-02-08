@@ -9,7 +9,7 @@ I am a college student bringing forth a motivated attitude and a variety of skil
 - 🔭 I’m currently working on various projects
 - 🌱 I’m currently learning AI and ML
 - 👯 I’m looking to collaborate on mini projects based on C and JAVA.
-- 📫 How to reach me: ![](https://mail.google.com/mail/ayushij1604@gmail.com)
+- 📫 How to reach me: ![](https://www.linkedin.com/in/ayushi-jain-17b547190/)
 - ⚡ Fun fact: Love exploring things
 
 Softwares I use for
