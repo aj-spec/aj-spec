@@ -9,7 +9,6 @@ I am a college student bringing forth a motivated attitude and a variety of skil
 - 🔭 I’m currently working on various projects
 - 🌱 I’m currently learning AI and ML
 - 👯 I’m looking to collaborate on mini projects based on C and JAVA.
-- 📫 How to reach me: <p class="view"><a href="https://www.linkedin.com/in/ayushi-jain-17b547190/"></a></p>
 - ⚡ Fun fact: Love exploring things
 
 Softwares I use for
@@ -18,6 +17,18 @@ Softwares I use for
 
 ![](https://komarev.com/ghpvc/?username=aj-spec)
 
+[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/ayushi-jain-17b547190"
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/ayushij1601"
+
 [![Ayushi's github stats](https://github-readme-stats.vercel.app/api?username=aj-spec&count_private=true&show_icons=true)](https://github.com/aj-spec/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aj-spec&layout=compact)](https://github.com/aj-spec/github-readme-stats)
+
+
 
