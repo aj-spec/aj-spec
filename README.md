@@ -8,7 +8,9 @@ I am a college student bringing forth a motivated attitude and a variety of skil
 Softwares I use for
 - 🤖 App Development: Flutter
 - 👩‍💻 Designing: Adobe Photoshop
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+-
+-
+-
 - 🔭 I’m currently working on vaious projects
 - 🌱 I’m currently learning AI and ML
 - 👯 I’m looking to collaborate on mini projects based on C and JAVA.
