@@ -11,10 +11,6 @@ I am a college student bringing forth a motivated attitude and a variety of skil
 - 👯 I’m looking to collaborate on mini projects based on C and JAVA.
 - ⚡ Fun fact: Love exploring things
 
-Softwares I use for
-- 🤖 App Development: Flutter
-- 👩‍💻 Designing: Adobe Photoshop
-
 ![](https://komarev.com/ghpvc/?username=aj-spec)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ayushi-jain-17b547190/)
   
