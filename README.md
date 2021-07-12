@@ -8,7 +8,8 @@ I am a college student bringing forth a motivated attitude and a variety of skil
 
 - 🔭 I’m currently working on various projects
 - 🌱 I’m currently learning AI and ML
-- 👯 I’m looking to collaborate on mini projects based on C and JAVA.
+- 👯 I’m looking to collaborate on with developers on any projects and hackathons.
+- 💬 Ask me about ... anything
 - ⚡ Fun fact: Love exploring things
 
 ![](https://komarev.com/ghpvc/?username=aj-spec)
