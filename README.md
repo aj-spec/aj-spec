@@ -10,7 +10,7 @@ I am a college student bringing forth a motivated attitude and a variety of skil
 - 🌱 I’m currently learning AI and ML
 - 👯 I’m looking to collaborate with developers on any project or hackathon.
 - 💬 Ask me about ... anything
-- ⚡ Fun fact: Love exploring things
+- ⚡ Fun fact: Love exploring
 
 ![](https://komarev.com/ghpvc/?username=aj-spec)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ayushi-jain-17b547190/)
