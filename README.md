@@ -15,8 +15,14 @@ I am a college student bringing forth a motivated attitude and a variety of skil
 ![](https://komarev.com/ghpvc/?username=aj-spec)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ayushi-jain-17b547190/)
   
-[![Ayushi's github stats](https://github-readme-stats.vercel.app/api?username=aj-spec&count_private=true&show_icons=true)](https://github.com/aj-spec/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aj-spec&layout=compact)](https://github.com/aj-spec/github-readme-stats)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj-spec&theme=tokyonight&show_icons=true" alt="ayushijain" />
 
+<p width="100%" align="center">
+          <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aj-spec&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="ayushijain" />
+          <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aj-spec&theme=tokyonight" alt="ayushijain" />
+</p>
+
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=aj-spec&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
+   
 
 
